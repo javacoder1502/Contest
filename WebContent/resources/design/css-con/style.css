@@ -1,0 +1,83 @@
+body{padding:0px;
+margin:0px;
+}
+.container{padding-left:0px;
+padding-right:0px;
+margin:auto;
+max-width:600px;
+width:100%;
+}
+.row{margin-left:0px;
+margin-right:0px;
+}
+.img{width:100%;
+}
+.contest_area{float:left;
+width:100%;
+border:1px solid #E3E3E3;
+}
+.banner{float:left;
+width:100%;
+}
+.banner img {width:100%;
+}
+.cat-area{float:left;
+width:100%;
+text-align:center;
+margin-top:10px;
+margin-bottom:10px;
+}
+.col-md-6, col-xs-6 {padding-left:0px;
+padding-right:0px;
+}
+.link-area{float:left;
+width:100%;
+padding:10px;
+}
+.link-area p{float:left;
+width:100%;
+text-align:center;
+background-color:#ff5360;
+color:#fff;
+font-weight:bold;
+}
+.link-area p:hover{background-color:#a6bab9;
+}
+.score-card{float:left;
+width:100%;
+text-align:center;
+}
+.score-card p{float:left;
+width:100%;
+text-align:center;
+margin:0px;
+background-color:#333;
+color:#fff;
+}
+.ques-card{float:left;
+width:100%;
+text-align:center;
+padding:10px;
+}
+.ques-card h5{float:left;
+width:100%;
+text-align:center;
+background-color:#0089d0;
+color:#fff;
+font-weight:bold;
+}
+.radio-inline{float:left;
+width:100%;
+text-align:left;
+padding-left:35px;
+}
+#sub{background-color:#0089d0;
+border:none;
+padding:5px 8px;
+color:#fff;
+margin-top:20px;
+margin-bottom:10px;
+}
+#sub:hover{background-color:#ff5360;
+color:#fff;
+}
